@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 115
+autom4te.cache
+Banshee.OpenVP.userprefs
+Banshee.OpenVP.usertasks
+build
+config.log
+config.status
+configure
+Makefile
+
+END

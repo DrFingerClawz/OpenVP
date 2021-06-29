@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/98/trunk/OpenVP/OpenVP.GtkGui
+END
+MemberEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/MemberEditor.cs
+END
+BrowsableItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/BrowsableItem.cs
+END
+openvp.gtkgui.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP.GtkGui/openvp.gtkgui.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/57/trunk/OpenVP/OpenVP.GtkGui/ChangeLog
+END
+Main.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/Main.cs
+END
+LinearPresetEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/LinearPresetEditor.cs
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP.GtkGui/Makefile.am
+END
+BrowsableEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/OpenVP/OpenVP.GtkGui/BrowsableEditor.cs
+END
+KeyEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/57/trunk/OpenVP/OpenVP.GtkGui/KeyEntry.cs
+END
+OpenVP.GtkGui.mdp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP.GtkGui/OpenVP.GtkGui.mdp
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/OpenVP/OpenVP.GtkGui/AssemblyInfo.cs
+END
+MainWindow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/47/trunk/OpenVP/OpenVP.GtkGui/MainWindow.cs
+END
+Util.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/Util.cs
+END
+EffectSelectorDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/EffectSelectorDialog.cs
+END

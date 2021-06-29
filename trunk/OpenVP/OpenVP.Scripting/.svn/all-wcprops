@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/98/trunk/OpenVP/OpenVP.Scripting
+END
+OpenVP.Scripting.mdp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP.Scripting/OpenVP.Scripting.mdp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.Scripting/ChangeLog
+END
+UserScript.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.Scripting/UserScript.cs
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP.Scripting/Makefile.am
+END
+AffeScript.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.Scripting/AffeScript.cs
+END
+ScriptingEnvironment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.Scripting/ScriptingEnvironment.cs
+END
+openvp.scripting.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP.Scripting/openvp.scripting.pc.in
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.Scripting/AssemblyInfo.cs
+END
+ScriptCompileException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.Scripting/ScriptCompileException.cs
+END

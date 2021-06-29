@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/119/branches/OpenVP-0.0.1/OpenVP.Core
+END
+TextureHandle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP.Core/TextureHandle.cs
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/119/branches/OpenVP-0.0.1/OpenVP.Core/Makefile.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/119/branches/OpenVP-0.0.1/OpenVP.Core/ChangeLog
+END
+MovementBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/66/branches/OpenVP-0.0.1/OpenVP.Core/MovementBase.cs
+END
+ClearScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP.Core/ClearScreen.cs
+END
+SuperScope.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP.Core/SuperScope.cs
+END
+BurstScope.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/119/branches/OpenVP-0.0.1/OpenVP.Core/BurstScope.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/58/branches/OpenVP-0.0.1/OpenVP.Core/AssemblyInfo.cs
+END
+DynamicMovement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP.Core/DynamicMovement.cs
+END
+openvp.core.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/105/branches/OpenVP-0.0.1/OpenVP.Core/openvp.core.pc.in
+END
+SharedTextureHandle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP.Core/SharedTextureHandle.cs
+END
+ScopeBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/78/branches/OpenVP-0.0.1/OpenVP.Core/ScopeBase.cs
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/119/branches/OpenVP-0.0.1/OpenVP.Core/Makefile.am
+END
+Laser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP.Core/Laser.cs
+END
+Buffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP.Core/Buffer.cs
+END
+OpenVP.Core.mdp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/105/branches/OpenVP-0.0.1/OpenVP.Core/OpenVP.Core.mdp
+END
+Scope.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP.Core/Scope.cs
+END
+Mirror.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP.Core/Mirror.cs
+END

@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 42
+Cdh.Affe.Tests.pidb
+Makefile
+test-results
+
+END

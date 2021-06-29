@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 118
+build
+OpenVP.userprefs
+OpenVP.usertasks
+Makefile.in
+configure
+config.log
+install-sh
+aclocal.m4
+missing
+autom4te.cache
+
+END

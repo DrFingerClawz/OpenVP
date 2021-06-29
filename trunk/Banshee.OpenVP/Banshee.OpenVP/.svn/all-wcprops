@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/134/trunk/Banshee.OpenVP/Banshee.OpenVP
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134/trunk/Banshee.OpenVP/Banshee.OpenVP/ChangeLog
+END
+VisualizationExtensionNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/132/trunk/Banshee.OpenVP/Banshee.OpenVP/VisualizationExtensionNode.cs
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/132/trunk/Banshee.OpenVP/Banshee.OpenVP/Makefile.am
+END
+Banshee.OpenVP.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132/trunk/Banshee.OpenVP/Banshee.OpenVP/Banshee.OpenVP.csproj
+END
+VisualizationDisplayWidget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/132/trunk/Banshee.OpenVP/Banshee.OpenVP/VisualizationDisplayWidget.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/132/trunk/Banshee.OpenVP/Banshee.OpenVP/AssemblyInfo.cs
+END
+BansheePlayerData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/132/trunk/Banshee.OpenVP/Banshee.OpenVP/BansheePlayerData.cs
+END
+banshee.openvp.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/Banshee.OpenVP/banshee.openvp.pc.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/132/trunk/Banshee.OpenVP/Banshee.OpenVP/Makefile.in
+END
+OpenVPSourceContentProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134/trunk/Banshee.OpenVP/Banshee.OpenVP/OpenVPSourceContentProvider.cs
+END

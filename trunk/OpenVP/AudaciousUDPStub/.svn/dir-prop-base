@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 94
+AudaciousUDPStub.md.pc
+AudaciousUDPStub.pc
+AudaciousUDPStub.d
+.prec
+bin
+AudaciousUDPStub.pidb
+
+END

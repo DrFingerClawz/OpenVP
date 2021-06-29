@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/119/branches/OpenVP-0.0.1/OpenVP
+END
+KeyboardEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/KeyboardEvent.cs
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/119/branches/OpenVP-0.0.1/OpenVP/Makefile.am
+END
+Registry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/Registry.cs
+END
+openvp.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/105/branches/OpenVP-0.0.1/OpenVP/openvp.pc.in
+END
+IPreset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/IPreset.cs
+END
+IBeatDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/IBeatDetector.cs
+END
+Color.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/Color.cs
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/105/branches/OpenVP-0.0.1/OpenVP/Makefile.in
+END
+IRenderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/IRenderer.cs
+END
+TimedPresetBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/TimedPresetBase.cs
+END
+NullPlayerData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/NullPlayerData.cs
+END
+OpenVP.mdp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/105/branches/OpenVP-0.0.1/OpenVP/OpenVP.mdp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/119/branches/OpenVP-0.0.1/OpenVP/ChangeLog
+END
+PlayerData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/PlayerData.cs
+END
+SDLController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/SDLController.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/58/branches/OpenVP-0.0.1/OpenVP/AssemblyInfo.cs
+END
+Effect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/Effect.cs
+END
+IController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/IController.cs
+END
+LinearPreset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/LinearPreset.cs
+END
+UDPPlayerData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/55/branches/OpenVP-0.0.1/OpenVP/UDPPlayerData.cs
+END

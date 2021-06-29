@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/82/trunk/OpenVP/OpenVP.Metadata/OpenVP.Metadata.Loose
+END
+LooseDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/81/trunk/OpenVP/OpenVP.Metadata/OpenVP.Metadata.Loose/LooseDictionary.cs
+END
+LooseObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/trunk/OpenVP/OpenVP.Metadata/OpenVP.Metadata.Loose/LooseObject.cs
+END
+LooseString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/81/trunk/OpenVP/OpenVP.Metadata/OpenVP.Metadata.Loose/LooseString.cs
+END
+LooseNumber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/81/trunk/OpenVP/OpenVP.Metadata/OpenVP.Metadata.Loose/LooseNumber.cs
+END
+LooseArray.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/81/trunk/OpenVP/OpenVP.Metadata/OpenVP.Metadata.Loose/LooseArray.cs
+END

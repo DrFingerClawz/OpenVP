@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/98/trunk/OpenVP/OpenVP
+END
+TimedPresetBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/47/trunk/OpenVP/OpenVP/TimedPresetBase.cs
+END
+NullPlayerData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/47/trunk/OpenVP/OpenVP/NullPlayerData.cs
+END
+OpenVP.mdp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP/OpenVP.mdp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/OpenVP/OpenVP/ChangeLog
+END
+PlayerData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/PlayerData.cs
+END
+SDLController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/47/trunk/OpenVP/OpenVP/SDLController.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/OpenVP/OpenVP/AssemblyInfo.cs
+END
+Effect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/47/trunk/OpenVP/OpenVP/Effect.cs
+END
+IController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/47/trunk/OpenVP/OpenVP/IController.cs
+END
+LinearPreset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/47/trunk/OpenVP/OpenVP/LinearPreset.cs
+END
+UDPPlayerData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/UDPPlayerData.cs
+END
+KeyboardEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/KeyboardEvent.cs
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP/Makefile.am
+END
+Registry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/Registry.cs
+END
+openvp.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP/openvp.pc.in
+END
+IPreset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/IPreset.cs
+END
+IBeatDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/47/trunk/OpenVP/OpenVP/IBeatDetector.cs
+END
+Color.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/Color.cs
+END
+IRenderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/47/trunk/OpenVP/OpenVP/IRenderer.cs
+END

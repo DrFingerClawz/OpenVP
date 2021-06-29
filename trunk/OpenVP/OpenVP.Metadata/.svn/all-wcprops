@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/98/trunk/OpenVP/OpenVP.Metadata
+END
+IChannel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/81/trunk/OpenVP/OpenVP.Metadata/IChannel.cs
+END
+Event.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/OpenVP/OpenVP.Metadata/Event.cs
+END
+OpenVP.Metadata.mdp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP.Metadata/OpenVP.Metadata.mdp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/86/trunk/OpenVP/OpenVP.Metadata/ChangeLog
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP.Metadata/Makefile.am
+END
+LooseSourceAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/86/trunk/OpenVP/OpenVP.Metadata/LooseSourceAttribute.cs
+END
+MetadataObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/81/trunk/OpenVP/OpenVP.Metadata/MetadataObject.cs
+END
+openvp.metadata.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/96/trunk/OpenVP/OpenVP.Metadata/openvp.metadata.pc.in
+END
+Channel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/85/trunk/OpenVP/OpenVP.Metadata/Channel.cs
+END
+MetadataManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/81/trunk/OpenVP/OpenVP.Metadata/MetadataManager.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/81/trunk/OpenVP/OpenVP.Metadata/AssemblyInfo.cs
+END
+ChannelWindow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/85/trunk/OpenVP/OpenVP.Metadata/ChannelWindow.cs
+END
+StaticChannel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/85/trunk/OpenVP/OpenVP.Metadata/StaticChannel.cs
+END

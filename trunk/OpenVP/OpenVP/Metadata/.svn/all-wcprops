@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/57/trunk/OpenVP/OpenVP/Metadata
+END
+DefaultValueAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/Metadata/DefaultValueAttribute.cs
+END
+AuthorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/57/trunk/OpenVP/OpenVP/Metadata/AuthorAttribute.cs
+END
+DescriptionAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/Metadata/DescriptionAttribute.cs
+END
+FollowsAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/Metadata/FollowsAttribute.cs
+END
+DisplayNameAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/Metadata/DisplayNameAttribute.cs
+END
+RangeAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/Metadata/RangeAttribute.cs
+END
+CategoryAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/Metadata/CategoryAttribute.cs
+END
+BrowsableAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP/Metadata/BrowsableAttribute.cs
+END

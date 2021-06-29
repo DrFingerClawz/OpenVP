@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/134/trunk/Banshee.OpenVP
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/install-sh
+END
+Makefile.include
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/Makefile.include
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/configure.ac
+END
+expansions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/expansions.m4
+END
+Banshee.OpenVP.sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/132/trunk/Banshee.OpenVP/Banshee.OpenVP.sln
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/132/trunk/Banshee.OpenVP/ChangeLog
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/trunk/Banshee.OpenVP/autogen.sh
+END

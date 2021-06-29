@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/MemberEditors
+END
+NumericEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/MemberEditors/NumericEditor.cs
+END
+EnumEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/MemberEditors/EnumEditor.cs
+END
+ScriptEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/MemberEditors/ScriptEditor.cs
+END
+StringEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/MemberEditors/StringEditor.cs
+END
+ColorEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/MemberEditors/ColorEditor.cs
+END
+BooleanEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/MemberEditors/BooleanEditor.cs
+END
+UnknownEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/46/trunk/OpenVP/OpenVP.GtkGui/MemberEditors/UnknownEditor.cs
+END
